@@ -1,0 +1,24 @@
+[33mtag v1.0[m
+Tagger: AsfvinPugunisparam <asfvin@my.ibm.com>
+Date:   Fri Feb 19 12:05:33 2021 +0800
+
+Release 1.0
+
+[33mcommit 610d2b7938f05896fd8d0f95218235d8ec170034[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.0[m[33m)[m
+Author: AsfvinPugunisparam <asfvin@my.ibm.com>
+Date:   Fri Feb 19 11:50:23 2021 +0800
+
+    updated .gitignore
+
+[1mdiff --git a/.gitignore b/.gitignore[m
+[1mindex bf0824e..80ca069 100644[m
+[1m--- a/.gitignore[m
+[1m+++ b/.gitignore[m
+[36m@@ -1 +1,5 @@[m
+[31m-*.log[m
+\ No newline at end of file[m
+[32m+[m[32m*.log[m
+[32m+[m[32mREADME_BACKUP_567.md[m
+[32m+[m[32mREADME_BASE_567.md[m
+[32m+[m[32mREADME_LOCAL_567.md[m
+[32m+[m[32mREADME_REMOTE_567.md[m
